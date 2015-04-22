@@ -1,0 +1,1 @@
+The main objective of such project is to provide an application which help creating CSV file based on a file copylib (Mainframe flat file).
